@@ -1,0 +1,4 @@
+darkskylib
+matplotlib
+pillow
+PyQt5
